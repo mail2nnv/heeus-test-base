@@ -1,4 +1,3 @@
 package base
 
-type Command struct {
-}
+CREATE TABLE ORDERS as ...
